@@ -1,6 +1,5 @@
 {
   "files.autoSave": "afterDelay",
-  "window.zoomLevel": 4,
   //font & editors
   "editor.fontFamily": "Anonymous Pro",
   "editor.fontLigatures": true,
@@ -52,12 +51,12 @@
     "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css",
     "src/**/*.css"
   ],
-
-  // workbench
-  "workbench.colorTheme": "Hard Hacker High Contrast",
   "workbench.sideBar.location": "right",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.statusBar.visible": false,
   "workbench.editor.showTabs": "none",
   "workbench.editor.labelFormat": "medium",
+  "workbench.secondarySideBar.defaultVisibility": "visible",
+  "workbench.statusBar.visible": false,
+  "chat.disableAIFeatures": true,
+  "workbench.colorTheme": "Hard Hacker",
 }
